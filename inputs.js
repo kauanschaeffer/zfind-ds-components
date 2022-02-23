@@ -28,6 +28,7 @@ const designSystemComponents = [
   'LRouteChart',
   'LRouteChartHeader',
   'LRouteChartLine',
+  'LGridChart',
   'LLabeledChip',
   'LTextField',
   'LTextArea',
